@@ -1,0 +1,11 @@
+ul li:first-child {
+    font-weight: bold;
+}
+
+ul li:nth-child(odd) {
+    background-color: lightgray;
+}
+
+ul li:nth-child(even) {
+    background-color: lightblue; 
+}

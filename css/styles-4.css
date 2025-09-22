@@ -1,0 +1,21 @@
+*{
+    list-style-type: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+a:link{
+    color: blue;
+    text-decoration: none;
+}
+a:visited {
+    color: purple;
+    text-decoration: none;
+}
+a:hover {
+    color: green;
+    text-decoration: underline;
+}
+a:active {
+    color: red;
+    text-decoration: underline;
+}

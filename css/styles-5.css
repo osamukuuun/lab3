@@ -1,0 +1,12 @@
+p::first-line {
+    color: blue;
+}
+
+p::first-letter {
+    color: red; 
+    font-size: 25px; 
+}
+
+p::after {
+    content: " --- кінець абзацу";
+}
